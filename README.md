@@ -1,16 +1,53 @@
 ## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+     <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <div>
+        <title>Danilo Santos</title>
+        <div><h1>Danilo Santos</h1>
+        </div>
+        <div>
+            <p><strong>Idade: </strong>30 anos 
+                <div>
+                    <p><strong>Formação: </strong></p>  <div>Audio visual
+                        <div>Serviço Social</div>
+                    </div>
+                </div> <div><p><strong>Ferramentas:</strong></p> <div>Photoshop
+                     <div>After Efects
+                         <div> Premiere
+                             <div>Final Cut Pro
 
-<!--
-**Dan-dev94/Dan-dev94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                             </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </p>
 
-Here are some ideas to get you started:
+        </div>
+    </div>
+  </head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+<div>
+    
+        <p>
+            <strong>Sobre Mim:</strong> 
+            <div><p><div>Agente social com 7 anos de experiência
+                em trabalho com pessoas em vulnerabilidade. 
+                <div> Habilidades de escuta ativa e solução de
+                    conflitos, sempre promovendo uma solução,
+                    priorizando a equipe.
+                </div>
+            </div>
+        </p>
+
+            </div>
+                </p>
+   
+</div>    
+</body>
+</html>
