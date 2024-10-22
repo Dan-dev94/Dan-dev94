@@ -19,14 +19,5 @@
                          <div> Premiere
                              <div>Final Cut Pro
 
-                             </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </p>
-
-        </div>
-    </div>
+                         
   </head>
